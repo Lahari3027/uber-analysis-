@@ -139,7 +139,8 @@ This page focuses on deeper analysis and performance monitoring.
 
 
 ## Page 2
-_Add screenshot here_
+<img width="1919" height="1079" alt="Screenshot 2026-04-26 235857" src="https://github.com/user-attachments/assets/cf35915c-7d0c-4c11-963c-6e52c9a19d72" />
+
 
 ---
 
