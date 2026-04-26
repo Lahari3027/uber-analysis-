@@ -135,7 +135,8 @@ This page focuses on deeper analysis and performance monitoring.
 # 📷 Dashboard Screenshots
 
 ## Page 1
-_Add screenshot here_
+<img width="1919" height="1074" alt="Screenshot 2026-04-26 235657" src="https://github.com/user-attachments/assets/28648ee0-18c5-4dda-9706-4a3d1e2682a0" />
+
 
 ## Page 2
 _Add screenshot here_
